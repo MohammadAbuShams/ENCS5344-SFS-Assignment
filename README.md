@@ -29,5 +29,11 @@ Each part of the assignment involves specific tasks related to the processing an
 4. **Concatenative Synthesis:** Experiment with sub-word level concatenation to synthesize new words.
 5. **Formant Synthesis:** Generate speech using synthetic formant patterns.
 
+## Contributors
+
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- [Mohammed Owda](https://github.com/M7mdOdeh1)
+
+
 Detailed instructions for each part are provided in the PDF file.
 
